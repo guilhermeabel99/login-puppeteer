@@ -15,12 +15,4 @@ const puppeteer = require('puppeteer');
 
   await page.click('[type="submit"]')
   
-
-
-  
-
-
-
-
-  
 })();
